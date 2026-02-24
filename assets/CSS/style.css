@@ -10,7 +10,17 @@ body {
     font-size: 40px;
     color: #150C7A;
 }
+.titulo-modulo{
+    text-align: center;
+    font-size: 40px;
+    color: #150C7A;
+}
 
+.disciplinas{
+    margin: 1%;
+    padding: 1%;
+    font-size: 24px;
+}
 .paragrafo{
     font-size: 24px;
     color: #150C7A;
@@ -62,3 +72,7 @@ body {
     max-width: 100%;    
     height: auto;
 }
+ul{
+    list-style: none;
+}
+
